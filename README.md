@@ -1,0 +1,1 @@
+# Daigo-Inoue.github.io
