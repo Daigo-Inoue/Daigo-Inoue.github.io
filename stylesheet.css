@@ -4,6 +4,7 @@ body {
 
 .header_logo {
   padding: 30px;
+  float: left;
 }
 
 .header_image img {
