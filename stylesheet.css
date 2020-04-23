@@ -8,6 +8,7 @@ body {
 
 .header_image img {
   max-width: 50%;
+  margin: 0 auto;
 }
 
 .header_list li{
