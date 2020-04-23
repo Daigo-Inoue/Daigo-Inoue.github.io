@@ -10,9 +10,8 @@ body {
 }
 
 .header_image img {
-  max-width: 50%;
-  margin: 0 auto;
-  padding-top: 50px;
+  text-align:center;
+  padding-top: 20px
 }
 
 .header_list li{
